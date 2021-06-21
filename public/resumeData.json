@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Clarissa Ardon",
+    "occupation": "Frontend Developer",
+    "description": "Arquitecta en transición al mundo tech",
+    "image": "profilepic.jpg",
+    "bio": "Hola! Me encuentro en transición al mundo tech y en mis tiempos libres me dedico a enseñar un poco de lo que voy aprendiendo en la plataforma de Codecademy como Barcelona Chapter Lead! 🎉",
+    "contactmessage": "Contacta conmigo!",
+    "email": "codecademy.bcnchapter@gmail.com",
+    "phone": "+34 68974587",
+    "address": {
+      "street": "Carrer Born",
+      "city": "Barcelona",
+      "state": "Barcelona",
+      "zip": "08223"
+    },
+    "website": "https://www.codecademy.com/",
+    "resumedownload": "https://www.codecademy.com/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC5CMtpogD_P3mOoeiDHD5eQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://es-es.facebook.com/codecademy",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/clarissaardon/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/codecademy/?hl=es",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/klaryon",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "IT Academy",
+        "degree": "Frontend Developer Bootcamp",
+        "graduated": "Enero 2021",
+        "description": "+350 hrs. Aprendí React, Javascript, HTML, CSS"
+      }
+    ],
+    "work": [
+      {
+        "company": "EatKube & FlyKube",
+        "title": "Frontend Develper",
+        "years": "Abr 2021 - Present",
+        "description": "Actualmente realizando la web de la empresa FlyKube. Typescript, React(Hooks), SCSS modules, git, GitLab"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Carrito de compras",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://github.com/klaryon/three_item_store"
+      },
+      {
+        "title": "Countletters",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://github.com/klaryon/count_letters"
+      },
+      {
+        "title": "Interactive .svg animations",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://github.com/klaryon/interactive_svg_animations"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Muy motivada en aprender nuevas tecnologías y web development.",
+        "user": ":)"
+      }
+    ]
+  }
+}
